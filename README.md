@@ -19,9 +19,6 @@ and the cosine of the angle between them.
 - E = mc<sup>2</sup>
 - Chemical formula of water is H<sub>2</sub>O
 
-
-
-
 ### _Python code for Vector Dot product_
 
 ```python
@@ -29,4 +26,10 @@ def dot_product(vector_a, vector_b):
     return sum(a * b for a, b in (vector_a, vector_b))
 ```
 
+### Invention of vector dot product
+> The dot product, also known as the scalar product, was not invented by a single person,
+> but is a well-established mathematical operation.
+> In 1773, Joseph-Louis Lagrange introduced the component form of both
+> the dot and cross products in order to study the tetrahedron in three dimensions.
+> In 1843, William Rowan Hamilton introduced the quaternion product, and with it the terms "vector" and "scalar". 
  
