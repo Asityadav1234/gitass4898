@@ -1,5 +1,5 @@
 # **Implementing Vector Dot Product**
-## Asit
+## A simple introduction to the concept and its importance.
 
 ![vector product](https://github.com/Asityadav1234/gitass4898/blob/main/vector.png?raw=true)
 </br>
