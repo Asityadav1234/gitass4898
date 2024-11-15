@@ -28,11 +28,30 @@ In the image above, you can observe how the vector dot product relates geometric
 - E = mc<sup>2</sup>
 - Chemical formula of water is H<sub>2</sub>O
 
-## _Python code for Vector Dot product_
+## Python Code for Calculating the Dot Product
+
+Below is a simple Python implementation to calculate the dot product of two vectors using a function.
+
+### Example Code Snippet
 
 ```python
 def dot_product(vector_a, vector_b):
-    return sum(a * b for a, b in (vector_a, vector_b))
+    """
+    Calculate the dot product of two vectors.
+    
+    Args:
+    vector_a: List or tuple representing the first vector.
+    vector_b: List or tuple representing the second vector.
+    
+    Returns:
+    float: The dot product of the two vectors.
+    """
+    return sum(a * b for a, b in zip(vector_a, vector_b))
+
+vector_a = [1, 2, 3]
+vector_b = [4, 5, 6]
+result = dot_product(vector_a, vector_b)
+print(f"The dot product of {vector_a} and {vector_b} is: {result}")
 ```
 
 ## Invention of vector dot product
