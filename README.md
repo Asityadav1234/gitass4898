@@ -1,7 +1,7 @@
 # **Implementing Vector Dot Product**
 ## 
 
-<img src="https://github.com/Asityadav1234/gitass4898/blob/main/github-logo-5F384D0265-seeklogo.com.png?raw=true" alt="vector product" width="50" height="50">
+<img src="https://github.com/Asityadav1234/gitass4898/blob/main/images (4).jpg?raw=true" alt="vector product" width="50" height="50">
 
 </br>
 ![vector product](https://github.com/Asityadav1234/gitass4898/blob/main/vector.png?raw=true)
