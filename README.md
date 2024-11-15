@@ -1,10 +1,10 @@
 # **Implementing Vector Dot Product**
 ## 
 
-<img src="https://github.com/Asityadav1234/gitass4898/blob/main/images (4).jpg?raw=true" alt="vector product" width="50" height="50">
-
-</br>
 ![vector product](https://github.com/Asityadav1234/gitass4898/blob/main/vector.png?raw=true)
+</br>
+<img src="https://github.com/Asityadav1234/gitass4898/blob/main/vector.png?raw=true" alt="vector product" width="50" height="50">
+
 
 
 The dot product of two vectors is equal to the product of the magnitudes of the two vectors, 
