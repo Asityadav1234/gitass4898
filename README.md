@@ -27,9 +27,9 @@ def dot_product(vector_a, vector_b):
 ```
 
 ### Invention of vector dot product
-> The dot product, also known as the scalar product, was not invented by a single person,
-> but is a well-established mathematical operation.
-> In 1773, Joseph-Louis Lagrange introduced the component form of both
-> the dot and cross products in order to study the tetrahedron in three dimensions.
-> In 1843, William Rowan Hamilton introduced the quaternion product, and with it the terms "vector" and "scalar". 
+> The dot product, also known as the scalar product, was not invented by a single person,</br>
+> but is a well-established mathematical operation.</br>
+> In 1773, Joseph-Louis Lagrange introduced the component form of both</br>
+> the dot and cross products in order to study the tetrahedron in three dimensions.</br>
+> In 1843, William Rowan Hamilton introduced the quaternion product, and with it the terms "vector" and "scalar".</br> 
  
