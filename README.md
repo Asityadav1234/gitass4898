@@ -1,6 +1,8 @@
 # **Implementing Vector Dot Product**
 ## 
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 The dot product of two vectors is equal to the product of the magnitudes of the two vectors, 
 and the cosine of the angle between them.
 - Dot product or scalar product is an algebraic operation.
