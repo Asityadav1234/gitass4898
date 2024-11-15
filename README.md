@@ -1,7 +1,7 @@
 # **Implementing Vector Dot Product**
-## A simple introduction to the concept and its importance.
+## **A simple introduction to the concept and its importance.**
 
-<img src="https://github.com/Asityadav1234/gitass4898/blob/main/vector.png?raw=true" alt="vector product" width="100" height="100">
+![vector product](https://github.com/Asityadav1234/gitass4898/blob/main/vector.png?raw=true)
 </br>
 
 The dot product of two vectors is equal to the product of the magnitudes of the two vectors, 
@@ -10,7 +10,7 @@ and the cosine of the angle between them.
 - It takes two equal-length sequences of numbers, and returns a single number.
 - In Euclidean geometry, the dot product of the Cartesian coordinates of two vectors is widely used.
 
-## What is a Vector Dot Product?
+## **What is a Vector Dot Product?**
 The dot product of two vectors, **A** and **B**, is defined as:
 <p><b>A · B = |A| |B| cos(θ)</b></p>
 
@@ -28,11 +28,11 @@ In the image above, you can observe how the vector dot product relates geometric
 - E = mc<sup>2</sup>
 - Chemical formula of water is H<sub>2</sub>O
 
-## Python Code for Calculating the Dot Product
+## **Python Code for Calculating the Dot Product**
 
 Below is a simple Python implementation to calculate the dot product of two vectors using a function.
 
-### Example Code Snippet
+### **Example Code Snippet**
 
 ```python
 def dot_product(vector_a, vector_b):
@@ -54,14 +54,14 @@ result = dot_product(vector_a, vector_b)
 print(f"The dot product of {vector_a} and {vector_b} is: {result}")
 ```
 
-## Invention of vector dot product
+## **Invention of vector dot product**
 > The dot product, also known as the scalar product, was not invented by a single person,</br>
 > but is a well-established mathematical operation.</br>
 > In 1773, Joseph-Louis Lagrange introduced the component form of both</br>
 > the dot and cross products in order to study the tetrahedron in three dimensions.</br>
 > In 1843, William Rowan Hamilton introduced the quaternion product, and with it the terms "vector" and "scalar".</br> 
 
-## References for Vector Dot Product
+## **References for Vector Dot Product**
 
 1. **[Khan Academy – Introduction to the Dot Product](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length)**
    - Covers the basics of the dot product, including its mathematical formula, geometric interpretation, and applications.
