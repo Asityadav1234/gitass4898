@@ -15,9 +15,9 @@ The dot product of two vectors, **A** and **B**, is defined as:
 $$ A \cdot B = |A| |B| \cos(\theta) $$
 
 Where:
-- \( A \) and \( B \) are the two vectors.
-- \( |A| \) and \( |B| \) are the magnitudes of the vectors.
-- \( \theta \) is the angle between the vectors.
+- $A$ and $B$ are the two vectors.
+- $|A|$ and $|B|$ are the magnitudes of the vectors.
+- $\theta$ is the angle between the vectors.
 
 In the image above, you can observe how the vector dot product relates geometrically to the projection of one vector onto another. The closer the angle between the vectors is to zero (parallel), the larger the dot product becomes, and when the vectors are perpendicular, the dot product equals zero.
 
