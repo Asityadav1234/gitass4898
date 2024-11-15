@@ -1,7 +1,7 @@
 # **Implementing Vector Dot Product**
 ## 
 
-![vector product](https://github.com/Asityadav1234/gitass4898/blob/main/Screenshot 2024-11-15 130854.png?raw=true)
+![vector product](https://github.com/Asityadav1234/gitass4898/blob/main/vector.png?raw=true)
 
 
 The dot product of two vectors is equal to the product of the magnitudes of the two vectors, 
