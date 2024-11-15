@@ -12,7 +12,7 @@ and the cosine of the angle between them.
 
 ## What is a Vector Dot Product?
 The dot product of two vectors, **A** and **B**, is defined as:
-$$ A \dot B = |A| |B| \cos(\theta) $$
+<p><b>A · B = |A| |B| cos(θ)</b></p>
 
 Where:
 - $A$ and $B$ are the two vectors.
