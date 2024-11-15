@@ -1,6 +1,6 @@
 # **Implementing Vector Dot Product**
 ## 
-![vector product](https://github.com/Asityadav1234/gitass4898/blob/main/github-logo-5F384D0265-seeklogo.com.png?raw=true | width = 100)
+![vector product](github-logo-5F384D0265-seeklogo.com.png | width=100)
 </br>
 ![vector product](https://github.com/Asityadav1234/gitass4898/blob/main/vector.png?raw=true)
 
